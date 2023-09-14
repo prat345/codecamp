@@ -37,8 +37,8 @@ __this line is bold2__
     agegwgwgewgwg
 
 ### table
-| index | topic |
---|--
-| **1** | *item* |
-| **2** | *item* |
-| **3** | *item* |
+| index | left align | center align |
+:------:|--------|:-------:
+| **1** | *item* | *item* |
+| **2** | *item* | *item* |
+| **3** | *item* | *item* |
